@@ -462,17 +462,17 @@ header::before{
   gap: 2rem;
 }
 
-.footer {
+/* .footer {
   background-color: var(--primary-color);
-}
+} */
 
-.footer__container {
+/* .footer__container {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   gap: 2rem;
-}
+} */
 
-.footer__logo a {
+/* .footer__logo a {
   font-size: 1.5rem;
   font-weight: 400;
   color: var(--white);
@@ -489,9 +489,9 @@ header::before{
   align-items: center;
   justify-content: flex-end;
   gap: 1rem;
-}
+} */
 
-.footer__socials a {
+/* .footer__socials a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -507,7 +507,7 @@ header::before{
   font-size: 0.9rem;
   color: var(--white);
   text-align: center;
-}
+} */
 
 @media (width < 900px) {
   .nav__links {
